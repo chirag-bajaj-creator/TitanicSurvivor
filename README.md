@@ -1,16 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Classification Model - README</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 20px; background-color: #fff; color: #333; }
-    h1, h2 { color: #2c3e50; }
-    pre, code { background: #f4f4f4; padding: 6px 10px; border-radius: 5px; }
-    pre { overflow-x: auto; }
-    ul, ol { margin-left: 20px; }
-  </style>
+
 </head>
 <body>
 
